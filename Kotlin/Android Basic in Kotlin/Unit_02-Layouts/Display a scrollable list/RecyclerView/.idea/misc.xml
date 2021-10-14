@@ -4,7 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Learning/Google-Developer-Courses/Kotlin/Android Basic in Kotlin/Unit_02-Layouts/Display a scrollable list/RecyclerView/app/src/main/res/layout/activity_main.xml" value="0.31851851851851853" />
-        <entry key="..\:/Learning/Google-Developer-Courses/Kotlin/Android Basic in Kotlin/Unit_02-Layouts/Display a scrollable list/RecyclerView/app/src/main/res/layout/list_item.xml" value="0.21944444444444444" />
+        <entry key="..\:/Learning/Google-Developer-Courses/Kotlin/Android Basic in Kotlin/Unit_02-Layouts/Display a scrollable list/RecyclerView/app/src/main/res/layout/list_item.xml" value="0.33" />
+        <entry key="..\:/Learning/Google-Developer-Courses/Kotlin/Android Basic in Kotlin/Unit_02-Layouts/Display a scrollable list/RecyclerView/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21025641025641026" />
       </map>
     </option>
   </component>
